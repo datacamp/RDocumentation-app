@@ -3,9 +3,9 @@
 _Important notes:_
 
 1. Please read this [confluence page](https://datacamp.atlassian.net/wiki/spaces/PRODENG/pages/2314469377/RDocumentation) which explains the architecture of how RDocumentation works.
-2. This repo is now only used for its API. Please disregard all the UI code here. THe UI now lives in [datacamp/rdocumentation-2.0](https://github.com/datacamp/rdocumentation-2.0).
+2. This repo is now only used for its API. Please disregard all the UI code here. The UI now lives in [datacamp/rdocumentation-2.0](https://github.com/datacamp/rdocumentation-2.0).
 
-rdocumentation.org provides the R community with centralized, quality and easy to search documentation.
+[rdocumentation.org](https://rdocumentation.org/) provides the R community with centralized, quality and easy to search documentation.
 
 R documentation sifts through all CRAN, GitHub and BioConductor packages hourly, parses the documentation files and indexes them in an Elasticsearch database. This makes rdocumentation.org the best online resource to browse all R package documentation.
 
