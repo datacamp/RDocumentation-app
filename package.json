@@ -43,7 +43,7 @@
     "grunt-version-assets": "^1.1.0",
     "html-entities": "^2.3.3",
     "include-all": "~0.1.6",
-    "lodash": "^4.13.1",
+    "lodash": "^4.17.21",
     "marked": "^0.3.5",
     "md5": "^2.1.0",
     "morgan": "^1.8.1",
