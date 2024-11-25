@@ -58,7 +58,7 @@
     "passport-local": "^1.0.0",
     "percentile": "1.2.0",
     "rc": "1.0.1",
-    "redis": "^2.6.2",
+    "redis": "^3.1.1",
     "request": "^2.81.0",
     "sails": "0.12.11",
     "sails-hook-sequelize": "1.0.1",
